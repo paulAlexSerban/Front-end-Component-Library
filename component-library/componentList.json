@@ -275,6 +275,30 @@
   {
     "group": "library",
     "category": "modules",
+    "component": "image-comparison-slider",
+    "name": "Image Comparison Slider",
+    "version": "1.0.0",
+    "description": "Image slider that compares two images.",
+    "author": {
+      "name": "Paul Serban",
+      "email": "paul.alex.serban@gmail.com"
+    },
+    "keywords": [
+      "library",
+      "modules",
+      "image-comparison-slider"
+    ],
+    "variations": [
+      {
+        "slug": "image-comparison-slider",
+        "name": "Image Comparison Slider",
+        "description": "Image Comparison Slider"
+      }
+    ]
+  },
+  {
+    "group": "library",
+    "category": "modules",
     "component": "loan-calculator",
     "name": "Loan Calculator",
     "version": "1.0.0",
@@ -681,7 +705,10 @@
       {
         "slug": "qr-code-card",
         "name": "QR Code Card",
-        "description": "QR Code Card"
+        "description": "QR Code Card",
+        "tags": [
+          "fe-mentor"
+        ]
       }
     ]
   },
