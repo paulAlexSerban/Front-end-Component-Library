@@ -688,33 +688,6 @@
   {
     "group": "library",
     "category": "patterns",
-    "component": "card",
-    "name": "Cardt",
-    "version": "1.0.0",
-    "description": "Card",
-    "author": {
-      "name": "Paul Serban",
-      "email": "paul.alex.serban@gmail.com"
-    },
-    "keywords": [
-      "library",
-      "patterns",
-      "card"
-    ],
-    "variations": [
-      {
-        "slug": "qr-code-card",
-        "name": "QR Code Card",
-        "description": "QR Code Card",
-        "tags": [
-          "fe-mentor"
-        ]
-      }
-    ]
-  },
-  {
-    "group": "library",
-    "category": "patterns",
     "component": "digital-clock",
     "name": "Digital Clock",
     "version": "1.0.0",
@@ -1042,30 +1015,6 @@
         "slug": "base-template-typography-mixins",
         "name": "Base Page Template w/ Typography Mixins",
         "description": "Base page template with typography mixins."
-      }
-    ]
-  },
-  {
-    "group": "system",
-    "category": "templates",
-    "component": "frontend-mentor",
-    "name": "Frontend Mentor Base Page Template",
-    "version": "1.0.0",
-    "description": "Frontend Mentor Base Page Template",
-    "author": {
-      "name": "Paul Serban",
-      "email": "paul.alex.serban@gmail.com"
-    },
-    "keywords": [
-      "page",
-      "template",
-      "base"
-    ],
-    "variations": [
-      {
-        "slug": "frontend-mentor",
-        "name": "Frontend Mentor Base Page Template",
-        "description": "Frontend Mentor Base Page Template"
       }
     ]
   },
